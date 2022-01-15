@@ -1,0 +1,8 @@
+#Directory
+temp
+
+#files
+*.log
+!debug.log
+!new.log
+filenuovo.txt
